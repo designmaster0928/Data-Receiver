@@ -1,0 +1,35 @@
+Change Component Designator: OldDesignator=C1 NewDesignator=C3
+Change Component Designator: OldDesignator=C2 NewDesignator=C4
+Change Component Designator: OldDesignator=C3 NewDesignator=C1
+Change Component Designator: OldDesignator=C4 NewDesignator=C2
+Change Component Designator: OldDesignator=J1 NewDesignator=J5
+Change Component Designator: OldDesignator=J2 NewDesignator=J8
+Change Component Designator: OldDesignator=J3 NewDesignator=J6
+Change Component Designator: OldDesignator=J4 NewDesignator=J15
+Change Component Designator: OldDesignator=J5 NewDesignator=J1
+Change Component Designator: OldDesignator=J6 NewDesignator=J2
+Change Component Designator: OldDesignator=J7 NewDesignator=J3
+Change Component Designator: OldDesignator=J8 NewDesignator=J4
+Change Component Designator: OldDesignator=J9 NewDesignator=J7
+Change Component Designator: OldDesignator=J10 NewDesignator=J9
+Change Component Designator: OldDesignator=J11 NewDesignator=J10
+Change Component Designator: OldDesignator=J12 NewDesignator=J14
+Change Component Designator: OldDesignator=J13 NewDesignator=J16
+Change Component Designator: OldDesignator=J14 NewDesignator=J11
+Change Component Designator: OldDesignator=J15 NewDesignator=J12
+Change Component Designator: OldDesignator=J16 NewDesignator=J13
+Change Component Designator: OldDesignator=R4 NewDesignator=R5
+Change Component Designator: OldDesignator=R5 NewDesignator=R6
+Change Component Designator: OldDesignator=R6 NewDesignator=R7
+Change Component Designator: OldDesignator=R7 NewDesignator=R8
+Change Component Designator: OldDesignator=R8 NewDesignator=R9
+Change Component Designator: OldDesignator=R9 NewDesignator=R10
+Change Component Designator: OldDesignator=R10 NewDesignator=R4
+Change Component Designator: OldDesignator=U1 NewDesignator=U2
+Change Component Designator: OldDesignator=U2 NewDesignator=U1
+Change Net Name : Old Net Name=NetC1_1 New Net Name=NetC3_1
+Change Net Name : Old Net Name=NetJ3_4 New Net Name=NetJ6_4
+Change Net Name : Old Net Name=NetJ15_S1 New Net Name=NetJ12_S1
+Change Net Name : Old Net Name=NetJ16_S1 New Net Name=NetJ13_S1
+Change Net Name : Old Net Name=NetR8_1 New Net Name=NetR9_1
+Change Net Name : Old Net Name=NetR9_1 New Net Name=NetR10_1
